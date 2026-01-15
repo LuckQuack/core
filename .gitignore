@@ -54,3 +54,4 @@ config.*.timestamp-*-*.*
 
 # YARN
 yarn.lock
+.env
