@@ -85,7 +85,7 @@
   "dependencies": {
     "@lando/argv": "^1.2.0",
     "@npmcli/agent": "^2.2.2",
-    "@npmcli/arborist": "^7.0.0",
+    "@npmcli/arborist": "^9.1.5",
     "@oclif/core": "^4.0.0",
     "@octokit/rest": "^20.0.0",
     "axios": "^1.13.5",
